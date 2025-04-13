@@ -1,6 +1,7 @@
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ashish+Kumar!;" />
 </h1>
+<span style="color: red;">I'm a Fullstack Developer</span> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishme0&label=Profile%20views&color=0e75b6&style=flat" alt="ashishme0" /> </p>
